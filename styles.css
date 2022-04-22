@@ -6,3 +6,7 @@ fieldset{
     overflow-y: scroll;
     position: relative;
 }
+form{
+    background-color: beige;
+    height: 100%;
+}
