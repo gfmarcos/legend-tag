@@ -3,7 +3,8 @@ label, input{
 }
 fieldset{
     height: 200px;
-    overflow-y: scroll;
+    overflow-y: auto;
+    overflow-x: hidden;
     position: relative;
 }
 form{
