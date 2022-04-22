@@ -1,0 +1,7 @@
+label, input{
+    display: block;
+}
+fieldset{
+    height: 200px;
+    overflow-y: scroll;
+}
